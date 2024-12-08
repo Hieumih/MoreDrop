@@ -1,0 +1,10 @@
+{
+  "Name": "MoreDrop",
+  "Author": "hekk",
+  "Version": "1.0.0",
+  "Description": "Modify Game Drop",
+  "UniqueID": "hekk.MoreDrop",
+  "EntryDll": "MoreDrop.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

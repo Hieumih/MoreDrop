@@ -1,0 +1,11 @@
+D:\Documents\CSharp\ASPNET\MoreDrop\Config\bin\Debug\net6.0\Config.deps.json
+D:\Documents\CSharp\ASPNET\MoreDrop\Config\bin\Debug\net6.0\Config.dll
+D:\Documents\CSharp\ASPNET\MoreDrop\Config\bin\Debug\net6.0\Config.pdb
+D:\Documents\CSharp\ASPNET\MoreDrop\Config\obj\Debug\net6.0\Config.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\CSharp\ASPNET\MoreDrop\Config\obj\Debug\net6.0\Config.AssemblyInfoInputs.cache
+D:\Documents\CSharp\ASPNET\MoreDrop\Config\obj\Debug\net6.0\Config.AssemblyInfo.cs
+D:\Documents\CSharp\ASPNET\MoreDrop\Config\obj\Debug\net6.0\Config.csproj.CoreCompileInputs.cache
+D:\Documents\CSharp\ASPNET\MoreDrop\Config\obj\Debug\net6.0\Config.dll
+D:\Documents\CSharp\ASPNET\MoreDrop\Config\obj\Debug\net6.0\refint\Config.dll
+D:\Documents\CSharp\ASPNET\MoreDrop\Config\obj\Debug\net6.0\Config.pdb
+D:\Documents\CSharp\ASPNET\MoreDrop\Config\obj\Debug\net6.0\ref\Config.dll

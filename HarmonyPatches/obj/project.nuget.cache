@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c/jQq+WJ9zcg+PFuomclLfiT2mfJGgOPyEsNxv8ONs5QmfjMIABbtrMoPdEmyAk7oz6jMXzqcrA7ldAQ+Z7KBA==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\CSharp\\ASPNET\\MoreDrop\\HarmonyPatches\\HarmonyPatches.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\lib.harmony\\2.3.3\\lib.harmony.2.3.3.nupkg.sha512",
+    "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\system.text.json\\6.0.9\\system.text.json.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

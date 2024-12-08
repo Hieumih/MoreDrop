@@ -1,0 +1,13 @@
+D:\Documents\CSharp\ASPNET\MoreDrop\MoreDrop\bin\Debug\net6.0\MoreDrop.deps.json
+D:\Documents\CSharp\ASPNET\MoreDrop\MoreDrop\bin\Debug\net6.0\MoreDrop.dll
+D:\Documents\CSharp\ASPNET\MoreDrop\MoreDrop\bin\Debug\net6.0\Config.dll
+D:\Documents\CSharp\ASPNET\MoreDrop\MoreDrop\bin\Debug\net6.0\Config.pdb
+D:\Documents\CSharp\ASPNET\MoreDrop\MoreDrop\obj\Debug\net6.0\MoreDrop.csproj.AssemblyReference.cache
+D:\Documents\CSharp\ASPNET\MoreDrop\MoreDrop\obj\Debug\net6.0\MoreDrop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\CSharp\ASPNET\MoreDrop\MoreDrop\obj\Debug\net6.0\MoreDrop.AssemblyInfoInputs.cache
+D:\Documents\CSharp\ASPNET\MoreDrop\MoreDrop\obj\Debug\net6.0\MoreDrop.AssemblyInfo.cs
+D:\Documents\CSharp\ASPNET\MoreDrop\MoreDrop\obj\Debug\net6.0\MoreDrop.csproj.CoreCompileInputs.cache
+D:\Documents\CSharp\ASPNET\MoreDrop\MoreDrop\obj\Debug\net6.0\MoreDrop.csproj.CopyComplete
+D:\Documents\CSharp\ASPNET\MoreDrop\MoreDrop\obj\Debug\net6.0\MoreDrop.dll
+D:\Documents\CSharp\ASPNET\MoreDrop\MoreDrop\bin\Debug\net6.0\HarmonyPatches.dll
+D:\Documents\CSharp\ASPNET\MoreDrop\MoreDrop\bin\Debug\net6.0\HarmonyPatches.pdb
