@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoreDrop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cad7c14ab42ba0bfd10fcbb9717667099e54527d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoreDrop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoreDrop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

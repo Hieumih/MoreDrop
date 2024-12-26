@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <EnableGameDebugging>false</EnableGameDebugging>
+	  <EnableModDeploy>false</EnableModDeploy>
+	  <EnableModZip>false</EnableModZip>
+	  <GamePath>D:\SteamLibrary\steamapps\common\Stardew Valley\</GamePath>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.3.2" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Config\MoreDrop.Core.csproj" />
+	  <ProjectReference Include="..\HarmonyPatches\MoreDrop.Patches.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="Stardew Valley">
+			<HintPath>..\..\..\..\..\SteamLibrary\steamapps\common\Stardew Valley\Stardew Valley.dll</HintPath>
+		</Reference>
+		<Reference Include="StardewModdingAPI">
+			<HintPath>..\..\..\..\..\SteamLibrary\steamapps\common\Stardew Valley\StardewModdingAPI.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+
+</Project>

@@ -1,37 +1,54 @@
-﻿using Config;
-using Config.Model;
-using HarmonyLib;
-using HarmonyPatches.Patches;
+﻿using HarmonyLib;
+using MoreDrop.Patches.Patches;
+using MoreDrop.Core.Model;
+using StardewModdingAPI;
 using StardewValley;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
-namespace HarmonyPatches
+namespace MoreDrop.Patches
 {
     public class LoadPatches
     {
         private static ModConfig Config;
         private static Harmony Harmony;
-        public static void Initialize(string uniqueId, ModConfig config)
+        private static IMonitor Monitor;
+        private static bool EnableMod => Config.Enable;
+
+        public static void Initialize(string uniqueId, ModConfig config, IMonitor monitor)
         {
             Config = config;
+            Monitor = monitor;
             Harmony = new Harmony(uniqueId);
         }
 
         public static void LoadPatch()
         {
             LoadMonsterDropPatch();
+            LoadTreeDropPatch();
             Harmony.PatchAll();
+        }
+
+        public static void ReloadPatch(ModConfig config)
+        {
+            Config = config;
+            LoadMonsterDropPatch();
+            LoadTreeDropPatch();
         }
 
         private static void LoadMonsterDropPatch()
         {
-            var old = Harmony.Patch(AccessTools.Method(typeof(GameLocation), nameof(GameLocation.monsterDrop)));
-            MonsterDropPatch.Initialize(Config.MonsterDrop, old);
+            MonsterDropPatch.Initialize(Config.MonsterDrop, Monitor, EnableMod);
+        }
+
+        private static void LoadTreeDropPatch()
+        {
+            TreeDropPatch.Initialize(Config.TreeDrop, Monitor, EnableMod);
         }
     }
 }

@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\CSharp\\MoreDrop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4362C1-A633-42FA-88AB-AAC382CF9C34}|MoreDrop\\MoreDrop.csproj|d:\\documents\\csharp\\moredrop\\moredrop\\i18n\\default.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F4362C1-A633-42FA-88AB-AAC382CF9C34}|MoreDrop\\MoreDrop.csproj|solutionrelative:moredrop\\i18n\\default.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4362C1-A633-42FA-88AB-AAC382CF9C34}|MoreDrop\\MoreDrop.csproj|d:\\documents\\csharp\\moredrop\\moredrop\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F4362C1-A633-42FA-88AB-AAC382CF9C34}|MoreDrop\\MoreDrop.csproj|solutionrelative:moredrop\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFDAE71-02D6-45A2-9B0E-41B7E5F54854}|ConfigModMenu\\MoreDrop.ConfigModMenu.csproj|d:\\documents\\csharp\\moredrop\\configmodmenu\\configmenu\\monsterdroppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFDAE71-02D6-45A2-9B0E-41B7E5F54854}|ConfigModMenu\\MoreDrop.ConfigModMenu.csproj|solutionrelative:configmodmenu\\configmenu\\monsterdroppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFDAE71-02D6-45A2-9B0E-41B7E5F54854}|ConfigModMenu\\MoreDrop.ConfigModMenu.csproj|d:\\documents\\csharp\\moredrop\\configmodmenu\\configmenu\\wooddroppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFDAE71-02D6-45A2-9B0E-41B7E5F54854}|ConfigModMenu\\MoreDrop.ConfigModMenu.csproj|solutionrelative:configmodmenu\\configmenu\\wooddroppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFDAE71-02D6-45A2-9B0E-41B7E5F54854}|ConfigModMenu\\MoreDrop.ConfigModMenu.csproj|d:\\documents\\csharp\\moredrop\\configmodmenu\\loadconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFDAE71-02D6-45A2-9B0E-41B7E5F54854}|ConfigModMenu\\MoreDrop.ConfigModMenu.csproj|solutionrelative:configmodmenu\\loadconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFDAE71-02D6-45A2-9B0E-41B7E5F54854}|ConfigModMenu\\MoreDrop.ConfigModMenu.csproj|d:\\documents\\csharp\\moredrop\\configmodmenu\\interface\\igenericmodconfigmenuapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFDAE71-02D6-45A2-9B0E-41B7E5F54854}|ConfigModMenu\\MoreDrop.ConfigModMenu.csproj|solutionrelative:configmodmenu\\interface\\igenericmodconfigmenuapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318DAE92-E326-4E35-8366-F8899935BC92}|Config\\MoreDrop.Core.csproj|d:\\documents\\csharp\\moredrop\\config\\model\\modconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318DAE92-E326-4E35-8366-F8899935BC92}|Config\\MoreDrop.Core.csproj|solutionrelative:config\\model\\modconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318DAE92-E326-4E35-8366-F8899935BC92}|Config\\MoreDrop.Core.csproj|d:\\documents\\csharp\\moredrop\\config\\model\\baseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318DAE92-E326-4E35-8366-F8899935BC92}|Config\\MoreDrop.Core.csproj|solutionrelative:config\\model\\baseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318DAE92-E326-4E35-8366-F8899935BC92}|Config\\MoreDrop.Core.csproj|d:\\documents\\csharp\\moredrop\\config\\model\\monsterdropconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318DAE92-E326-4E35-8366-F8899935BC92}|Config\\MoreDrop.Core.csproj|solutionrelative:config\\model\\monsterdropconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA75545D-027D-4E6D-A53C-0A4FA5657D0F}|HarmonyPatches\\MoreDrop.Patches.csproj|d:\\documents\\csharp\\moredrop\\harmonypatches\\patches\\monsterdroppatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA75545D-027D-4E6D-A53C-0A4FA5657D0F}|HarmonyPatches\\MoreDrop.Patches.csproj|solutionrelative:harmonypatches\\patches\\monsterdroppatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoadConfig.cs",
+              "DocumentMoniker": "D:\\Documents\\CSharp\\MoreDrop\\ConfigModMenu\\LoadConfig.cs",
+              "RelativeDocumentMoniker": "ConfigModMenu\\LoadConfig.cs",
+              "ToolTip": "D:\\Documents\\CSharp\\MoreDrop\\ConfigModMenu\\LoadConfig.cs",
+              "RelativeToolTip": "ConfigModMenu\\LoadConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:28:02.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WoodDropPage.cs",
+              "DocumentMoniker": "D:\\Documents\\CSharp\\MoreDrop\\ConfigModMenu\\ConfigMenu\\WoodDropPage.cs",
+              "RelativeDocumentMoniker": "ConfigModMenu\\ConfigMenu\\WoodDropPage.cs",
+              "ToolTip": "D:\\Documents\\CSharp\\MoreDrop\\ConfigModMenu\\ConfigMenu\\WoodDropPage.cs",
+              "RelativeToolTip": "ConfigModMenu\\ConfigMenu\\WoodDropPage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:26:21.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericModConfigMenuApi.cs",
+              "DocumentMoniker": "D:\\Documents\\CSharp\\MoreDrop\\ConfigModMenu\\Interface\\IGenericModConfigMenuApi.cs",
+              "RelativeDocumentMoniker": "ConfigModMenu\\Interface\\IGenericModConfigMenuApi.cs",
+              "ToolTip": "D:\\Documents\\CSharp\\MoreDrop\\ConfigModMenu\\Interface\\IGenericModConfigMenuApi.cs",
+              "RelativeToolTip": "ConfigModMenu\\Interface\\IGenericModConfigMenuApi.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:26:14.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "manifest.json",
+              "DocumentMoniker": "D:\\Documents\\CSharp\\MoreDrop\\MoreDrop\\manifest.json",
+              "RelativeDocumentMoniker": "MoreDrop\\manifest.json",
+              "ToolTip": "D:\\Documents\\CSharp\\MoreDrop\\MoreDrop\\manifest.json",
+              "RelativeToolTip": "MoreDrop\\manifest.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T16:20:52.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseConfig.cs",
+              "DocumentMoniker": "D:\\Documents\\CSharp\\MoreDrop\\Config\\Model\\BaseConfig.cs",
+              "RelativeDocumentMoniker": "Config\\Model\\BaseConfig.cs",
+              "ToolTip": "D:\\Documents\\CSharp\\MoreDrop\\Config\\Model\\BaseConfig.cs",
+              "RelativeToolTip": "Config\\Model\\BaseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:20:22.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModConfig.cs",
+              "DocumentMoniker": "D:\\Documents\\CSharp\\MoreDrop\\Config\\Model\\ModConfig.cs",
+              "RelativeDocumentMoniker": "Config\\Model\\ModConfig.cs",
+              "ToolTip": "D:\\Documents\\CSharp\\MoreDrop\\Config\\Model\\ModConfig.cs",
+              "RelativeToolTip": "Config\\Model\\ModConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:18:21.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MonsterDropConfig.cs",
+              "DocumentMoniker": "D:\\Documents\\CSharp\\MoreDrop\\Config\\Model\\MonsterDropConfig.cs",
+              "RelativeDocumentMoniker": "Config\\Model\\MonsterDropConfig.cs",
+              "ToolTip": "D:\\Documents\\CSharp\\MoreDrop\\Config\\Model\\MonsterDropConfig.cs",
+              "RelativeToolTip": "Config\\Model\\MonsterDropConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:30:59.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MonsterDropPatch.cs",
+              "DocumentMoniker": "D:\\Documents\\CSharp\\MoreDrop\\HarmonyPatches\\Patches\\MonsterDropPatch.cs",
+              "RelativeDocumentMoniker": "HarmonyPatches\\Patches\\MonsterDropPatch.cs",
+              "ToolTip": "D:\\Documents\\CSharp\\MoreDrop\\HarmonyPatches\\Patches\\MonsterDropPatch.cs",
+              "RelativeToolTip": "HarmonyPatches\\Patches\\MonsterDropPatch.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:30:48.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "default.json",
+              "DocumentMoniker": "D:\\Documents\\CSharp\\MoreDrop\\MoreDrop\\i18n\\default.json",
+              "RelativeDocumentMoniker": "MoreDrop\\i18n\\default.json",
+              "ToolTip": "D:\\Documents\\CSharp\\MoreDrop\\MoreDrop\\i18n\\default.json",
+              "RelativeToolTip": "MoreDrop\\i18n\\default.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T09:16:10.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonsterDropPage.cs",
+              "DocumentMoniker": "D:\\Documents\\CSharp\\MoreDrop\\ConfigModMenu\\ConfigMenu\\MonsterDropPage.cs",
+              "RelativeDocumentMoniker": "ConfigModMenu\\ConfigMenu\\MonsterDropPage.cs",
+              "ToolTip": "D:\\Documents\\CSharp\\MoreDrop\\ConfigModMenu\\ConfigMenu\\MonsterDropPage.cs",
+              "RelativeToolTip": "ConfigModMenu\\ConfigMenu\\MonsterDropPage.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwD8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:15:23.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

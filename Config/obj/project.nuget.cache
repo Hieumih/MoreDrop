@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4ysbQm+deuPCiV9IGCAGHsgc6wueU5Vg9ZTf7as15qqtFHv+vqp4ga57X3xkVIPKH42p2lsNASE3t7tYTJOY7Q==",
+  "dgSpecHash": "+N/IJBG4hI8=",
   "success": true,
-  "projectFilePath": "D:\\Documents\\CSharp\\ASPNET\\MoreDrop\\Config\\Config.csproj",
+  "projectFilePath": "D:\\Documents\\CSharp\\MoreDrop\\Config\\MoreDrop.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

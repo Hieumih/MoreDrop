@@ -11,3 +11,16 @@ D:\Documents\CSharp\ASPNET\MoreDrop\MoreDrop\obj\Debug\net6.0\MoreDrop.csproj.Co
 D:\Documents\CSharp\ASPNET\MoreDrop\MoreDrop\obj\Debug\net6.0\MoreDrop.dll
 D:\Documents\CSharp\ASPNET\MoreDrop\MoreDrop\bin\Debug\net6.0\HarmonyPatches.dll
 D:\Documents\CSharp\ASPNET\MoreDrop\MoreDrop\bin\Debug\net6.0\HarmonyPatches.pdb
+D:\Documents\CSharp\MoreDrop\MoreDrop\bin\Debug\net6.0\MoreDrop.deps.json
+D:\Documents\CSharp\MoreDrop\MoreDrop\bin\Debug\net6.0\MoreDrop.dll
+D:\Documents\CSharp\MoreDrop\MoreDrop\bin\Debug\net6.0\MoreDrop.ConfigModMenu.dll
+D:\Documents\CSharp\MoreDrop\MoreDrop\bin\Debug\net6.0\MoreDrop.Core.dll
+D:\Documents\CSharp\MoreDrop\MoreDrop\bin\Debug\net6.0\MoreDrop.Patches.dll
+D:\Documents\CSharp\MoreDrop\MoreDrop\bin\Debug\net6.0\MoreDrop.Core.pdb
+D:\Documents\CSharp\MoreDrop\MoreDrop\obj\Debug\net6.0\MoreDrop.csproj.AssemblyReference.cache
+D:\Documents\CSharp\MoreDrop\MoreDrop\obj\Debug\net6.0\MoreDrop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\CSharp\MoreDrop\MoreDrop\obj\Debug\net6.0\MoreDrop.AssemblyInfoInputs.cache
+D:\Documents\CSharp\MoreDrop\MoreDrop\obj\Debug\net6.0\MoreDrop.AssemblyInfo.cs
+D:\Documents\CSharp\MoreDrop\MoreDrop\obj\Debug\net6.0\MoreDrop.csproj.CoreCompileInputs.cache
+D:\Documents\CSharp\MoreDrop\MoreDrop\obj\Debug\net6.0\MoreDrop.csproj.Up2Date
+D:\Documents\CSharp\MoreDrop\MoreDrop\obj\Debug\net6.0\MoreDrop.dll

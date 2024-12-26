@@ -1,0 +1,23 @@
+{
+    "Enable": "Enable",
+
+    // Monster
+    "MonsterDrop": "Monster Drop",
+    "MonsterDrop.CommonDrop": "Common Drop",
+    "MonsterDrop.CommonDrop.ToolTip": "Note: Some loot will be random, not apply to monsters drop pool",
+    "MonsterDrop.MoreExtraDropNum": "Extra Drop",
+    "MonsterDrop.MoreExtraDropNum.ToolTip": "Note: Some loot will be random, not apply to monsters drop pool",
+    "MonsterDrop.GoodCoinDrop": "Gold Coin Drop",
+    "MonsterDrop.GoodCoinDrop.ToolTip": "Make monster drop money",
+    "MonsterDrop.Trinket": "Trinket Drop",
+    "MonsterDrop.Trinket.ByPassMasteryCheck": "Bypass Mastery Check",
+    "MonsterDrop.Trinket.AdditionNum": "Addition Num",
+    "MonsterDrop.Trinket.AdditionNum.ToolTip": "Make monster drop Trinket, Available if player has Combat Mastery",
+    "MonsterDrop.HardMode": "Hard Mode Monster Drop",
+    "MonsterDrop.HardMode.QiGem": "Qi Gems",
+    "MonsterDrop.HardMode.GalaxySoul": "Galaxy Souls",
+
+    // Tree
+    "TreeDrop": "Tree Drop"
+
+}

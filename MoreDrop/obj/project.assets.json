@@ -18,6 +18,30 @@
           }
         }
       },
+      "MonoGame.Framework.DesktopGL/3.8.2.1105": {
+        "type": "package",
+        "build": {
+          "build/MonoGame.Framework.DesktopGL.targets": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/libopenal.so.1": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx/native/libopenal.1.dylib": {
+            "assetType": "native",
+            "rid": "osx"
+          },
+          "runtimes/win-x64/native/soft_oal.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x86/native/soft_oal.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          }
+        }
+      },
       "Newtonsoft.Json/13.0.3": {
         "type": "package",
         "compile": {
@@ -98,28 +122,45 @@
           "buildTransitive/netcoreapp3.1/System.Text.Json.targets": {}
         }
       },
-      "Config/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Config.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Config.dll": {}
-        }
-      },
-      "HarmonyPatches/1.0.0": {
+      "MoreDrop.ConfigModMenu/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Config": "1.0.0",
-          "Lib.Harmony": "2.3.3"
+          "MoreDrop.Core": "1.0.0",
+          "MoreDrop.Patches": "1.0.0",
+          "Pathoschild.Stardew.ModBuildConfig": "4.3.2"
         },
         "compile": {
-          "bin/placeholder/HarmonyPatches.dll": {}
+          "bin/placeholder/MoreDrop.ConfigModMenu.dll": {}
         },
         "runtime": {
-          "bin/placeholder/HarmonyPatches.dll": {}
+          "bin/placeholder/MoreDrop.ConfigModMenu.dll": {}
+        }
+      },
+      "MoreDrop.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MoreDrop.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreDrop.Core.dll": {}
+        }
+      },
+      "MoreDrop.Patches/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Lib.Harmony": "2.3.3",
+          "MonoGame.Framework.DesktopGL": "3.8.2.1105",
+          "MoreDrop.Core": "1.0.0",
+          "Pathoschild.Stardew.ModBuildConfig": "4.3.2"
+        },
+        "compile": {
+          "bin/placeholder/MoreDrop.Patches.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreDrop.Patches.dll": {}
         }
       }
     }
@@ -168,6 +209,25 @@
         "lib/netcoreapp3.1/0Harmony.pdb",
         "lib/netcoreapp3.1/0Harmony.xml",
         "lib/netstandard2.0/_._"
+      ]
+    },
+    "MonoGame.Framework.DesktopGL/3.8.2.1105": {
+      "sha512": "QwjhmpyMZ9js4zqoYN/0cz//nYZ1u5yB8KWJ1P7nbViqfUyzuFDvGqgUEXFLp+n0Rx4z9PuKfwL5nQpp9LrXhg==",
+      "type": "package",
+      "path": "monogame.framework.desktopgl/3.8.2.1105",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "build/MonoGame.Framework.DesktopGL.targets",
+        "lib/net8.0/MonoGame.Framework.dll",
+        "lib/net8.0/MonoGame.Framework.xml",
+        "monogame.framework.desktopgl.3.8.2.1105.nupkg.sha512",
+        "monogame.framework.desktopgl.nuspec",
+        "runtimes/linux-x64/native/libopenal.so.1",
+        "runtimes/osx/native/libopenal.1.dylib",
+        "runtimes/win-x64/native/soft_oal.dll",
+        "runtimes/win-x86/native/soft_oal.dll"
       ]
     },
     "Newtonsoft.Json/13.0.3": {
@@ -326,40 +386,51 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Config/1.0.0": {
+    "MoreDrop.ConfigModMenu/1.0.0": {
       "type": "project",
-      "path": "../Config/Config.csproj",
-      "msbuildProject": "../Config/Config.csproj"
+      "path": "../ConfigModMenu/MoreDrop.ConfigModMenu.csproj",
+      "msbuildProject": "../ConfigModMenu/MoreDrop.ConfigModMenu.csproj"
     },
-    "HarmonyPatches/1.0.0": {
+    "MoreDrop.Core/1.0.0": {
       "type": "project",
-      "path": "../HarmonyPatches/HarmonyPatches.csproj",
-      "msbuildProject": "../HarmonyPatches/HarmonyPatches.csproj"
+      "path": "../Config/MoreDrop.Core.csproj",
+      "msbuildProject": "../Config/MoreDrop.Core.csproj"
+    },
+    "MoreDrop.Patches/1.0.0": {
+      "type": "project",
+      "path": "../HarmonyPatches/MoreDrop.Patches.csproj",
+      "msbuildProject": "../HarmonyPatches/MoreDrop.Patches.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Config >= 1.0.0",
-      "HarmonyPatches >= 1.0.0",
-      "Lib.Harmony >= 2.3.3",
+      "MonoGame.Framework.DesktopGL >= 3.8.2.1105",
+      "MoreDrop.ConfigModMenu >= 1.0.0",
+      "MoreDrop.Core >= 1.0.0",
+      "MoreDrop.Patches >= 1.0.0",
       "Newtonsoft.Json >= 13.0.3",
       "Pathoschild.Stardew.ModBuildConfig >= 4.3.2"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\": {}
+    "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\CSharp\\ASPNET\\MoreDrop\\MoreDrop\\MoreDrop.csproj",
+      "projectUniqueName": "D:\\Documents\\CSharp\\MoreDrop\\MoreDrop\\MoreDrop.csproj",
       "projectName": "MoreDrop",
-      "projectPath": "D:\\Documents\\CSharp\\ASPNET\\MoreDrop\\MoreDrop\\MoreDrop.csproj",
+      "projectPath": "D:\\Documents\\CSharp\\MoreDrop\\MoreDrop\\MoreDrop.csproj",
       "packagesPath": "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\CSharp\\ASPNET\\MoreDrop\\MoreDrop\\obj\\",
+      "outputPath": "D:\\Documents\\CSharp\\MoreDrop\\MoreDrop\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Hieu Nguyen Minh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -373,11 +444,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Documents\\CSharp\\ASPNET\\MoreDrop\\Config\\Config.csproj": {
-              "projectPath": "D:\\Documents\\CSharp\\ASPNET\\MoreDrop\\Config\\Config.csproj"
+            "D:\\Documents\\CSharp\\MoreDrop\\ConfigModMenu\\MoreDrop.ConfigModMenu.csproj": {
+              "projectPath": "D:\\Documents\\CSharp\\MoreDrop\\ConfigModMenu\\MoreDrop.ConfigModMenu.csproj"
             },
-            "D:\\Documents\\CSharp\\ASPNET\\MoreDrop\\HarmonyPatches\\HarmonyPatches.csproj": {
-              "projectPath": "D:\\Documents\\CSharp\\ASPNET\\MoreDrop\\HarmonyPatches\\HarmonyPatches.csproj"
+            "D:\\Documents\\CSharp\\MoreDrop\\Config\\MoreDrop.Core.csproj": {
+              "projectPath": "D:\\Documents\\CSharp\\MoreDrop\\Config\\MoreDrop.Core.csproj"
+            },
+            "D:\\Documents\\CSharp\\MoreDrop\\HarmonyPatches\\MoreDrop.Patches.csproj": {
+              "projectPath": "D:\\Documents\\CSharp\\MoreDrop\\HarmonyPatches\\MoreDrop.Patches.csproj"
             }
           }
         }
@@ -386,15 +460,21 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
-          "Lib.Harmony": {
+          "MonoGame.Framework.DesktopGL": {
             "target": "Package",
-            "version": "[2.3.3, )"
+            "version": "[3.8.2.1105, )"
           },
           "Newtonsoft.Json": {
             "target": "Package",
@@ -421,7 +501,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.111\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

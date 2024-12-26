@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RYnzUUC8gNU=",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\CSharp\\MoreDrop\\ConfigModMenu\\MoreDrop.ConfigModMenu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\lib.harmony\\2.3.3\\lib.harmony.2.3.3.nupkg.sha512",
+    "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.2.1105\\monogame.framework.desktopgl.3.8.2.1105.nupkg.sha512",
+    "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.3.2\\pathoschild.stardew.modbuildconfig.4.3.2.nupkg.sha512",
+    "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\system.text.json\\6.0.9\\system.text.json.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

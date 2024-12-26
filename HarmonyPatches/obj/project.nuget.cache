@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "c/jQq+WJ9zcg+PFuomclLfiT2mfJGgOPyEsNxv8ONs5QmfjMIABbtrMoPdEmyAk7oz6jMXzqcrA7ldAQ+Z7KBA==",
+  "dgSpecHash": "7LfFsAbqV1c=",
   "success": true,
-  "projectFilePath": "D:\\Documents\\CSharp\\ASPNET\\MoreDrop\\HarmonyPatches\\HarmonyPatches.csproj",
+  "projectFilePath": "D:\\Documents\\CSharp\\MoreDrop\\HarmonyPatches\\MoreDrop.Patches.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\lib.harmony\\2.3.3\\lib.harmony.2.3.3.nupkg.sha512",
+    "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.2.1105\\monogame.framework.desktopgl.3.8.2.1105.nupkg.sha512",
+    "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.3.2\\pathoschild.stardew.modbuildconfig.4.3.2.nupkg.sha512",
     "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\Hieu Nguyen Minh\\.nuget\\packages\\system.text.json\\6.0.9\\system.text.json.6.0.9.nupkg.sha512"

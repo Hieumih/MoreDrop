@@ -33,3 +33,14 @@ D:\Documents\CSharp\ASPNET\MoreDrop\HarmonyPatches\obj\Debug\net6.0\HarmonyPatch
 D:\Documents\CSharp\ASPNET\MoreDrop\HarmonyPatches\obj\Debug\net6.0\refint\HarmonyPatches.dll
 D:\Documents\CSharp\ASPNET\MoreDrop\HarmonyPatches\obj\Debug\net6.0\HarmonyPatches.pdb
 D:\Documents\CSharp\ASPNET\MoreDrop\HarmonyPatches\obj\Debug\net6.0\ref\HarmonyPatches.dll
+D:\Documents\CSharp\MoreDrop\HarmonyPatches\bin\Debug\net6.0\HarmonyPatches.deps.json
+D:\Documents\CSharp\MoreDrop\HarmonyPatches\bin\Debug\net6.0\HarmonyPatches.dll
+D:\Documents\CSharp\MoreDrop\HarmonyPatches\bin\Debug\net6.0\Config.dll
+D:\Documents\CSharp\MoreDrop\HarmonyPatches\bin\Debug\net6.0\Config.pdb
+D:\Documents\CSharp\MoreDrop\HarmonyPatches\obj\Debug\net6.0\HarmonyPatches.csproj.AssemblyReference.cache
+D:\Documents\CSharp\MoreDrop\HarmonyPatches\obj\Debug\net6.0\HarmonyPatches.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\CSharp\MoreDrop\HarmonyPatches\obj\Debug\net6.0\HarmonyPatches.AssemblyInfoInputs.cache
+D:\Documents\CSharp\MoreDrop\HarmonyPatches\obj\Debug\net6.0\HarmonyPatches.AssemblyInfo.cs
+D:\Documents\CSharp\MoreDrop\HarmonyPatches\obj\Debug\net6.0\HarmonyPatches.csproj.CoreCompileInputs.cache
+D:\Documents\CSharp\MoreDrop\HarmonyPatches\obj\Debug\net6.0\HarmonyP.308AB1A0.Up2Date
+D:\Documents\CSharp\MoreDrop\HarmonyPatches\obj\Debug\net6.0\HarmonyPatches.dll

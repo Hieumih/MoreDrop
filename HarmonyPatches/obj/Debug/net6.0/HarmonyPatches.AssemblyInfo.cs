@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HarmonyPatches")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cad7c14ab42ba0bfd10fcbb9717667099e54527d")]
 [assembly: System.Reflection.AssemblyProductAttribute("HarmonyPatches")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HarmonyPatches")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
